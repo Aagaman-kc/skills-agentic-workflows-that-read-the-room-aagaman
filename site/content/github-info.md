@@ -18,3 +18,4 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Latest GitHub Updates
 
 - GitHub Actions now supports improved workflow visualizations for PR reviews.
+- GitHub Copilot Extensions bring AI capabilities to third-party tools and workflows.
