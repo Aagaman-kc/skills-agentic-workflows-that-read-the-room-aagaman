@@ -11,15 +11,17 @@ permissions:
   pull-requests: read
   issues: read
 
-# Tools - GitHub API access
+# Tools - GitHub API and file editing access
 tools:
   github:
     toolsets: [default]
+  edit: {}
 
 # Network access for web-fetching
 network:
   allowed:
     - github
+    - github.blog
 
 # Safe outputs - what the agent can do
 safe-outputs:
