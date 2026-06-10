@@ -19,7 +19,8 @@ tools:
 # Network access for web-fetching
 network:
   allowed:
-    - github
+    - github.blog
+    - github.com
 
 # Safe outputs - what the agent can do
 safe-outputs:
